@@ -4,7 +4,6 @@ gan/
 images/
 dataset/
 unpaired_HDR/
-
 config_supervised.yaml
 Evaluate_func.ipynb
 small_unet.py
