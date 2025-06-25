@@ -4,8 +4,8 @@
 
 # Usage (command)   : !python testing.py --config config_supervised.yaml
                       # --model snapshot/Gan/model_epoch_num_1.pth --input_folder unpaired_HDR/
-# Authors           : Naureen Mujtaba, Dr. Hassan Mohy-ud-Din
-# Email             : 19060039@lums.edu.pk, hassan.mohyuddin@lums.edu.pk
+# Authors           : Naureen Mujtaba 
+# Email             : 19060039@lums.edu.pk
 
 # Last Date         : March 19, 2024
 #------------------------------------------------------------------------------#
